@@ -78,4 +78,4 @@ These are designed to be read in order — each project builds conceptual depth 
 
 Built to demonstrate that AI governance competence is operational, not theoretical.
 
-Author: [Taimur Ijlal](https://github.com/taimurij) · The Cloud Security Guy
+Author: [Ashfaq Ahmed](https://github.com/thecyberine) · Ai Governance Professional.
